@@ -120,3 +120,7 @@ doc1.txt and doc2.txt might contain plagiarized content.
 - Scikit-learn
 - Regular Expressions
 - TF-IDF + Cosine Similarity
+
+### How to Run?
+Install the requirements using pip install -r requirements.txt
+Run server python manage.py runserver
